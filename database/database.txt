@@ -1,0 +1,9 @@
+
+mysql://b6e44a499a01de:ad60e8d3@eu-cdbr-west-03.cleardb.net/heroku_ada6839b305a98a?reconnect=true
+Database: heroku_ada6839b305a98a
+Username:	b6e44a499a01de
+Password:	ad60e8d3
+
+CREATE TABLE users (id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT, first_name VARCHAR(200) NOT NULL, last_name VARCHAR(200) NOT NULL, phone_number VARCHAR(20) NOT NULL, email VARCHAR(90) NOT NULL, on_date DATETIME NOT NULL, deleted CHAR(1) NOT NULL DEFAULT '0', PRIMARY KEY(id))
+
+CREATE TABLE admin (id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT, first_name VARCHAR(100) NOT NULL, last_name VARCHAR(100) NOT NULL, username VARCHAR(50) NOT NULL, email VARCHAR(90) NOT NULL, pass VARCHAR(90) NOT NULL, profile_image LONGTEXT NOT NULL, on_date DATETIME NOT NULL, deleted CHAR(1) NOT NULL DEFAULT '0', PRIMARY KEY(id))
