@@ -5,7 +5,7 @@ With a backend admin panel you can view all people and their given information a
 
 ## Example
 An example version of this web-app can be found on: https://coronatrackerfhnw.herokuapp.com/
-To reach the ''backend'' / admin panel, please find it at: https://coronatrackerfhnw.herokuapp.com/admin
+<br> To reach the ''backend'' / admin panel, please find it at: https://coronatrackerfhnw.herokuapp.com/admin
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
