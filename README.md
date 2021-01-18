@@ -7,8 +7,8 @@ With a backend admin panel you can view all people and their given information a
 An example version of this web-app can be found on: https://coronatrackerfhnw.herokuapp.com/
 <br> To reach the ''backend'' / admin panel, please find it at: https://coronatrackerfhnw.herokuapp.com/admin
 
-## Sample Pictures
-To be added..
+## Sample Video
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ## Context
 This project is the work of 2 students: Jonathan Opsomer and Gijs Blankenstijn. Whilst following an IT course at the FHNW - Switzerland we were obliged to develop a certain webapp with certain specifications and an actual useful business case. Therefore we thought it would be interesting to develop this Covid-19 tracker. As this web-app could actually be sold to restaurants etc,.
