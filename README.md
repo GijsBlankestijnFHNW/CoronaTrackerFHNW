@@ -11,5 +11,5 @@ An example version of this web-app can be found on: https://coronatrackerfhnw.he
 [![CoronaTrackerFHNW](https://yt-embed.herokuapp.com/embed?v=1myvdVZqIIg)](https://www.youtube.com/watch?v=1myvdVZqIIg "CoronaTrackerFHNW")
 
 ## Context
-This project is the work of 2 students: Jonathan Opsomer and Gijs Blankenstijn. Whilst following an IT course at the FHNW - Switzerland we were obliged to develop a certain webapp with certain specifications and an actual useful business case. Therefore we thought it would be interesting to develop this Covid-19 tracker. As this web-app could actually be sold to restaurants etc,.
+This project is the work of 2 students: Jonathan Opsomer and Gijs Blankestijn. Whilst following an IT course at the FHNW - Switzerland we were obliged to develop a certain webapp with certain specifications and an actual useful business case. Therefore we thought it would be interesting to develop this Covid-19 tracker. As this web-app could actually be sold to restaurants etc,.
 <br><br> The web application was created using mostly PHP - Laravel framework. Frontend was put together using Bootstrap (studio).
